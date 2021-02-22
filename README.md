@@ -4,3 +4,4 @@ The objective of this work is to create a client with the ability to access remo
 This project demonstrates de ability of Python, CSV, JSON, Encription and TCP sockets.
 
 Developed in 2018
+
