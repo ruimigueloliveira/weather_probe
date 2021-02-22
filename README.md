@@ -1,0 +1,2 @@
+# weather_probe
+The objective of this work is to create a client with the ability to access remotely to the temperature, humidity and wind probe, which has the ability to send data over a wireless network. The acquisition is made automatically and constantly, recording the data in a Comma Separated Values ​​(CSV) file. In addition, some indication of the possibility (or need) to bring a t-shirt, jacket, hat or other items of clothing.
